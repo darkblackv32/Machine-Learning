@@ -1,1 +1,2 @@
-# Machine-Learning-
+# Machine-Learning
+Through this repository, I aim to document my journey in Machine Learning, from learning the basics of programming languages and statistical concepts, to building and training machine learning models. I will be sharing code snippets, tutorials, and other resources that I find useful in my learning process. This will not only help me keep track of my progress but will also serve as a resource for anyone else who is also starting their journey in Machine Learning.
